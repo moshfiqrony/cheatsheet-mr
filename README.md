@@ -1,5 +1,6 @@
 # cheatsheet-mr
-##AJAX Call to a REST API
+
+## AJAX Call to a REST API
 
 ```javascript
 $.ajax({
