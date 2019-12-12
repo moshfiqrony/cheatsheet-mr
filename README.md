@@ -1,7 +1,7 @@
 # Table of content
-1. [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#ajax-call-to-a-rest-api)
-2. [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
-2. [Git sync with upstream](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#git-sync-with-upstream)
+* [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#ajax-call-to-a-rest-api)
+* [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
+* [Git sync with upstream](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#git-sync-with-upstream)
 
 
 ## AJAX Call to a REST API
