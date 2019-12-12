@@ -2,6 +2,9 @@
 * [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#ajax-call-to-a-rest-api)
 * [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
 * [Git sync with upstream](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#git-sync-with-upstream)
+* [Postgres SQL username Reset](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#postgres-sql-username-reset)
+
+
 
 
 ## AJAX Call to a REST API
