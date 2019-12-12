@@ -1,6 +1,7 @@
 # Table of content
-1. [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr#ajax-call-to-a-rest-api)
+1. [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#ajax-call-to-a-rest-api)
 2. [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
+2. [Git sync with upstream](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#git-sync-with-upstream)
 
 
 ## AJAX Call to a REST API
@@ -22,4 +23,16 @@ $.ajax({
 ```terminal
 find . -path "*/migrations/*.py" -not -name "__init__.py" -delete
 find . -path "*/migrations/*.pyc"  -delete
+```
+
+
+## Git sync with upstream
+```terminal
+git remote add upstream https://github.com/datafordecisions/cultivate.git
+
+git fetch upstream
+
+git merge upstream/master
+
+git push origin master
 ```
