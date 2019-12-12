@@ -1,6 +1,6 @@
 # Table of content
 1. [AJAX Call to a REST API](https://github.com/moshfiqrony/cheatsheet-mr#ajax-call-to-a-rest-api)
-
+2. [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
 
 
 ## AJAX Call to a REST API
