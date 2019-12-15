@@ -3,6 +3,14 @@
 * [Delete migrations Django](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#delete-migrations-django)
 * [Git sync with upstream](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#git-sync-with-upstream)
 * [Postgres SQL username Reset](https://github.com/moshfiqrony/cheatsheet-mr/blob/master/README.md#postgres-sql-username-reset)
+* [If Permission Denied For React Native](https://github.com/moshfiqrony/cheatsheet-mr/#if-permission-denied-for-react-native)
+* [How to make htdocs sudo permission](https://github.com/moshfiqrony/cheatsheet-mr/#how-to-make-htdocs-sudo-permission)
+* [Virtual Environment with Python 3.6](https://github.com/moshfiqrony/cheatsheet-mr/#virtual-environment-with-python-36)
+* [Remove Node JS](https://github.com/moshfiqrony/cheatsheet-mr/#remove-node-js)
+* [Node Js Install Fron tra.gz file](https://github.com/moshfiqrony/cheatsheet-mr/#node-js-install-fron-tragz-file)
+* [Lock resource unavailable](https://github.com/moshfiqrony/cheatsheet-mr/#lock-resource-unavailable)
+* [Node Update Procedure](https://github.com/moshfiqrony/cheatsheet-mr/#node-update-procedure)
+* [ADV is not working for React Native Android App](https://github.com/moshfiqrony/cheatsheet-mr/#adv-is-not-working-for-react-native-android-app)
 
 
 
